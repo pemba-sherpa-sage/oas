@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Buttons
+title: tax
 parent: UI Components
 nav_order: 2
 ---
-
+{% include tax.html %}
 # Buttons
 {: .no_toc }
 
